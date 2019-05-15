@@ -10,4 +10,4 @@ The Material are organized as follow:
 2. Modified algorithm proposed implemented in NetLogo (5.3)
 3. Reproduction results
 
-<<Under construction>>
+<Under construction>
